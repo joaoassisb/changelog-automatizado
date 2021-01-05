@@ -1,0 +1,24 @@
+{
+  "name": "changelog-automatizado",
+  "version": "1.0.0",
+  "description": "Changelog automatizado",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joaoassisb/changelog-automatizado.git"
+  },
+  "author": "Joao Vitor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joaoassisb/changelog-automatizado/issues"
+  },
+  "homepage": "https://github.com/joaoassisb/changelog-automatizado#readme",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0",
+    "yargs": "^16.2.0"
+  }
+}
